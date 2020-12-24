@@ -25,7 +25,13 @@
 
 ---
 
+### Audio & Video
 
+- [Audio: Marketing During the Pandemic](https://soundcloud.com/zackms/marketing-during-the-pandemic/s-i25b7FhZGlu)
+- [Video: Identifying Idiopathic Head Tremors](https://youtu.be/8bLp2uxmsEM)
+- [Audio: What is Rethink Cafe, and How Is It Helping Fort Greene?](https://soundcloud.com/zackms/what-is-rethink-cafe/s-uivvWkhBRiR)
+- [Audio: MTA Pandemic Related Financial Troubles](https://soundcloud.com/zackms/0910smithvoicer)
+- [Audio: How Have People Surprised You During the Pandemic?](https://soundcloud.com/zackms/how-have-people-surprised-you-during-the-pandemic/s-GiHzsfoTzcX)
 
 
 ---
