@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Data Visualization
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/censusicon/)
+<img src="images/snapmap.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tracking Small Donations to NYC 2021 Mayoral Candidates](https://zacharysmith90.github.io/mayorsmalldonor/)
+<img src="images/smalldonor.png?raw=true"/>
+
+---
+[Census Importance Explainer](https://zacharysmith90.github.io/censusicon/)
+<img src="images/census.png?raw=true"/>
 
 ---
 
