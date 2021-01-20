@@ -21,10 +21,10 @@
 
 <a href="https://bklyner.com/author/zachary-smith/">
 <img src="images/bklyner.png" alt="Bklyner" width="200">
-
+<br>
 <a href="https://www.atozagat.com)">
 <img src="images/atozagat.jpg" alt="A to Zagat" width="200">
-  
+<br>
 <a href="https://blog.thomasnet.com/author/zachary-smith">
 <img src="images/Thomas.png" alt="Thomas" width="200">
 
