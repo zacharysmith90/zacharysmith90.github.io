@@ -20,11 +20,11 @@
 ### Published Work
 
 <a href="https://bklyner.com/author/zachary-smith/">
-<img src="images/bklyner.png" height="100" alt="Bklyner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/bklyner.png" width="200" alt="Bklyner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://nextnewyork.nycitynewsservice.com/cooped-up-new-yorkers-find-escape-in-outdoor-art/">
-<img src="images/nycitynewsservice.png" height="100" alt="NYCity News Service">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/nycitynewsservice.png" width="200" alt="NYCity News Service">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.thomasnet.com/author/zachary-smith">
-<img src="images/Thomas.png" height="100" alt="Thomas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/Thomas.png" width="200" alt="Thomas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.atozagat.com)">
 <img src="images/atozagat.jpg" height="100" alt="A to Zagat">
 
