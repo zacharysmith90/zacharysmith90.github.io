@@ -19,9 +19,15 @@
 
 ### Published Work
 
-- [Bklyner](https://bklyner.com/author/zachary-smith/)
-- [A to Zagat](https://www.atozagat.com)
-- [Thomas Blog](https://blog.thomasnet.com/author/zachary-smith)
+- <a href="https://bklyner.com/author/zachary-smith/">
+<img src="images/bklyner.png" alt="Bklyner" width="200">
+
+- <a href="https://www.atozagat.com)">
+<images/img src="atozagat.jpg" alt="A to Zagat" width="200">
+  
+- <a href="https://blog.thomasnet.com/author/zachary-smith">
+<images/img src="Thomas.png" alt="Thomas" width="200">
+
 
 ---
 
