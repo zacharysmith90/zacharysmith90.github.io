@@ -24,8 +24,7 @@
 <a href="http://nextnewyork.nycitynewsservice.com/cooped-up-new-yorkers-find-escape-in-outdoor-art/">
 <img src="images/nycitynewsservice.png" alt="NYCity News Service" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.thomasnet.com/author/zachary-smith">
-<img src="images/Thomas.png" alt="Thomas" width="200">
-<br>
+<img src="images/Thomas.png" alt="Thomas" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.atozagat.com)">
 <img src="images/atozagat.jpg" alt="A to Zagat" width="200">
 
