@@ -4,7 +4,7 @@
 
 ### Data Visualization
 
-[New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/censusicon/)
+[New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/newyork-snap/)
 <img src="images/snapmap.png?raw=true"/>
 
 ---
