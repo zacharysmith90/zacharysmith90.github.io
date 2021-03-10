@@ -8,7 +8,7 @@
 <img src="images/farm-filter.png?raw=true"/>
 ---
 
-[United States Fruit Yield Streamgraph] (images/cropsyield_finalDesktop_v2.png)
+[United States Fruit Yield Streamgraph] (https://github.com/zacharysmith90/zacharysmith90.github.io/blob/7361c327577818bfb8169cea682caf3a17e94c4b/images/cropsyield_finalDesktop_v2.png)
 <img src="images/cropsyield_finalDesktop_v2.png?raw=true"/>
 ---
 
