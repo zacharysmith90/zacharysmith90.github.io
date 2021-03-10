@@ -4,7 +4,7 @@
 
 ### Data Journalism
 
-[United States Fruit Yield Streamgraph]
+United States Fruit Yield Streamgraph
 <img src="images/cropsyield_finalDesktop_v2.png?raw=true"/>
 
 [New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/newyork-snap/)
