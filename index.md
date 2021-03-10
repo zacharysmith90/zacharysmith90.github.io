@@ -4,8 +4,13 @@
 
 ### Data Journalism
 
+[Which Farmers' Market Can You Use SNAP to Purchase Food?](https://zacharysmith90.github.io/farm-filter/)
+<img src="images/farm0filter.png?raw=true"/>
+---
+
 United States Fruit Yield Streamgraph
 <img src="images/cropsyield_finalDesktop_v2.png?raw=true"/>
+---
 
 [New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/newyork-snap/)
 <img src="images/snapmap.png?raw=true"/>
