@@ -4,6 +4,10 @@
 
 ### Data Journalism
 
+[Groceries Cost More for Gravesend NYCHA Residents Than Other Neighborhood Residents](https://zacharysmith90.github.io/grocery-annotate/)
+<img src="images/grocery-annotate.png?raw=true"/>
+---
+
 [Which Farmers' Market Can You Use SNAP to Purchase Food?](https://zacharysmith90.github.io/farm-filter/)
 <img src="images/farm-filter.png?raw=true"/>
 ---
