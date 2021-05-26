@@ -39,13 +39,15 @@
 
 ### Published Work
 
+<a href="https://www.everydayhealth.com/authors/zachary-smith/">
+<img src="everyday-health-01.png" height="100" alt="Everyday Health">
 <a href="https://bklyner.com/author/zachary-smith/">
 <img src="images/bklyner.png" width="200" alt="Bklyner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://nextnewyork.nycitynewsservice.com/cooped-up-new-yorkers-find-escape-in-outdoor-art/">
 <img src="images/nycitynewsservice.png" width="200" alt="NYCity News Service">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.thomasnet.com/author/zachary-smith">
 <img src="images/Thomas.png" width="200" alt="Thomas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.atozagat.com)">
+<a href="https://www.atozagat.com">
 <img src="images/atozagat.jpg" height="100" alt="A to Zagat">
 
 
@@ -54,7 +56,11 @@
 
 ### Multimedia
 
+  <b> 2021 </b>
+- [Video: Stranded in a Pharmacy Desert](https://youtu.be/5tEiwKedsFg)
 - [Photo: Shots From a Pandemic Year](https://www.nycitynewsservice.com/2021/03/photos-from-covid-pandemic-year/)
+  
+  <b> 2020 </b>
 - [Audio: How Has Marketing Changed During the Pandemic?](https://soundcloud.com/zackms/marketing-during-the-pandemic/s-i25b7FhZGlu)
 - [Video: Identifying Idiopathic Head Tremors](https://youtu.be/8bLp2uxmsEM)
 - [Audio: What is Rethink Cafe, and How Is It Helping Fort Greene?](https://soundcloud.com/zackms/what-is-rethink-cafe/s-uivvWkhBRiR)
