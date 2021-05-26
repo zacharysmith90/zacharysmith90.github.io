@@ -56,11 +56,11 @@
 
 ### Multimedia
 
-  <b> 2021 </b>
+<b> 2021 </b>
 - [Video: Stranded in a Pharmacy Desert](https://youtu.be/5tEiwKedsFg)
 - [Photo: Shots From a Pandemic Year](https://www.nycitynewsservice.com/2021/03/photos-from-covid-pandemic-year/)
   
-  <b> 2020 </b>
+<b> 2020 </b>
 - [Audio: How Has Marketing Changed During the Pandemic?](https://soundcloud.com/zackms/marketing-during-the-pandemic/s-i25b7FhZGlu)
 - [Video: Identifying Idiopathic Head Tremors](https://youtu.be/8bLp2uxmsEM)
 - [Audio: What is Rethink Cafe, and How Is It Helping Fort Greene?](https://soundcloud.com/zackms/what-is-rethink-cafe/s-uivvWkhBRiR)
