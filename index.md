@@ -32,10 +32,6 @@
 <img src="images/smalldonor.png?raw=true"/>
 
 ---
-[Census Importance Explainer](https://zacharysmith90.github.io/censusicon/)
-<img src="images/census.png?raw=true"/>
-
----
 
 ### Published Work
 
