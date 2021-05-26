@@ -4,18 +4,26 @@
 
 ### Data Journalism
 
+[School Bus Delays are Leaving Special Education Students Behind](https://annadeen2.github.io/coding-final-2/)
+<img src="images/bus-qgis.png?raw=true"/>
+
+---
+[Does Your Diet Comply with the MyPlate Nutrition Guide?](https://zacharysmith90.github.io/ctn-myplate-calculator/)
+<img src="images/myplate-calc.png?raw=true"/>
+
+---
 [Groceries Cost More for Gravesend NYCHA Residents Than Other Neighborhood Residents](https://zacharysmith90.github.io/grocery-annotate/)
 <img src="images/grocery-annotate.png?raw=true"/>
----
 
-[Which Farmers' Market Can You Use SNAP to Purchase Food?](https://zacharysmith90.github.io/farm-filter/)
+---
+[Which Farmers' Market Can You Use SNAP to Purchase Food?](https://www.nycitynewsservice.com/2021/04/nyc-farmers-market-accepting-snap-beneifits/)
 <img src="images/farm-filter.png?raw=true"/>
----
 
+---
 [United States Fruit Yield Streamgraph](https://raw.githubusercontent.com/zacharysmith90/zacharysmith90.github.io/master/images/cropsyield_finalDesktop_v2.png)
 <img src="images/cropsyield_finalDesktop_v2.png?raw=true"/>
----
 
+---
 [New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/newyork-snap/)
 <img src="images/snapmap.png?raw=true"/>
 
@@ -44,8 +52,9 @@
 
 ---
 
-### Audio & Video
+### Multimedia
 
+- [Photo: Shots From a Pandemic Year](https://www.nycitynewsservice.com/2021/03/photos-from-covid-pandemic-year/)
 - [Audio: How Has Marketing Changed During the Pandemic?](https://soundcloud.com/zackms/marketing-during-the-pandemic/s-i25b7FhZGlu)
 - [Video: Identifying Idiopathic Head Tremors](https://youtu.be/8bLp2uxmsEM)
 - [Audio: What is Rethink Cafe, and How Is It Helping Fort Greene?](https://soundcloud.com/zackms/what-is-rethink-cafe/s-uivvWkhBRiR)
