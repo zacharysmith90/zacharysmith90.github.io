@@ -54,6 +54,7 @@
 
 <b> 2021 </b>
 - [Video: Stranded in a Pharmacy Desert](https://youtu.be/5tEiwKedsFg)
+- [Video: Coney Island Capsize](https://youtu.be/jRX8oMhJVck)
 - [Photo: Shots From a Pandemic Year](https://www.nycitynewsservice.com/2021/03/photos-from-covid-pandemic-year/)
   
 <b> 2020 </b>
