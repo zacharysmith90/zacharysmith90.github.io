@@ -4,6 +4,9 @@
 
 ### Data Journalism
 
+[TEFAP Receives Additional Funding from USDA](https://foodbanknews.org/food-banks-welcome-1-billion-investment-by-usda/)
+<img src="images/tefap_pie.png?raw=true"/>
+
 [School Bus Delays are Leaving Special Education Students Behind](https://annadeen2.github.io/coding-final-2/)
 <img src="images/bus-qgis.png?raw=true"/>
 
@@ -34,7 +37,8 @@
 ---
 
 ### Published Work
-
+<a href="https://foodbanknews.org/albertsons-proves-power-of-checkout-charity/">
+<img src="images/fbn.jpeg" width="200" alt="Food Bank News">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.everydayhealth.com/authors/zachary-smith/">
 <img src="images/everyday-health-01.png" width="200" alt="Everyday Health">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bklyner.com/author/zachary-smith/">
