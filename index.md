@@ -7,6 +7,7 @@
 [TEFAP Receives Additional Funding from USDA](https://foodbanknews.org/food-banks-welcome-1-billion-investment-by-usda/)
 <img src="images/tefap_pie.png?raw=true"/>
 
+---
 [School Bus Delays are Leaving Special Education Students Behind](https://annadeen2.github.io/coding-final-2/)
 <img src="images/bus-qgis.png?raw=true"/>
 
