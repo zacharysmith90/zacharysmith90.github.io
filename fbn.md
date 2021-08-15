@@ -1,6 +1,7 @@
 ## Food Bank News
 
 ---
+
 [Phila. Food Bank Expands Sourcing with Acquisition of Food Rescuer](https://foodbanknews.org/food-bank-expands-sourcing-with-acquisition-of-food-rescuer/)
 <img src="images/1611478064946.jpg?raw=true"/>
 
