@@ -38,7 +38,7 @@
 ---
 
 ### Published Work
-<a href="https://foodbanknews.org/albertsons-proves-power-of-checkout-charity/">
+<a href="https://zacharysmith90.github.io/fbn.md">
 <img src="images/fbn.jpeg" width="200" alt="Food Bank News">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.everydayhealth.com/authors/zachary-smith/">
 <img src="images/everyday-health-01.png" width="200" alt="Everyday Health">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
