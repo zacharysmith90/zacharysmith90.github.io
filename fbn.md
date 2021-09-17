@@ -2,6 +2,16 @@
 
 ---
 
+[Lessons from Global Food Banks on Reaching Underserved Populations](https://foodbanknews.org/lessons-from-global-food-banks-on-reaching-underserved-populations/)
+<img src="images/indigenous.png?raw=true"/>
+
+---
+
+[New Tool Sheds Light on Impact of Racism on Food Insecurity](https://foodbanknews.org/new-tool-sheds-light-on-impact-of-racism-on-food-insecurity/)
+<img src="images/id-racism.png?raw=true"/>
+
+---
+
 [Phila. Food Bank Expands Sourcing with Acquisition of Food Rescuer](https://foodbanknews.org/food-bank-expands-sourcing-with-acquisition-of-food-rescuer/)
 <img src="images/1611478064946.jpg?raw=true"/>
 
