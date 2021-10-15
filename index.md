@@ -4,8 +4,8 @@
 
 ### Data Journalism
 
-[TEFAP Receives Additional Funding from USDA](https://foodbanknews.org/food-banks-welcome-1-billion-investment-by-usda/)
-<img src="images/tefap_pie.png?raw=true"/>
+[Top 300 Food Banks By Revenue](https://foodbanknews.org/top-300-food-banks-by-revenue/)
+<img src="images/fbn_barChart.png?raw=true"/>
 
 ---
 [School Bus Delays are Leaving Special Education Students Behind](https://annadeen2.github.io/coding-final-2/)
