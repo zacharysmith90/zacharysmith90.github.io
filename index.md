@@ -42,9 +42,9 @@
 <img src="images/cleveland-2.png" width="200" alt="Cleveland.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.everydayhealth.com/authors/zachary-smith/">
 <img src="images/everyday-health-01.png" width="200" alt="Everyday Health">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.everydayhealth.com/authors/zachary-smith/">
-<img src="images/cny.png" width="200" alt="Crain's New York">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://zacharysmith90.github.io/crains">
+<img src="images/cny.png" width="200" alt="Crain's New York">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://zacharysmith90.github.io/fbn">
 <img src="images/fbn.jpeg" width="200" alt="Food Bank News">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bklyner.com/author/zachary-smith/">
 <img src="images/bklyner.png" width="200" alt="Bklyner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
