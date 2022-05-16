@@ -52,8 +52,6 @@
 <img src="images/nycitynewsservice.png" width="200" alt="NYCity News Service">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.thomasnet.com/author/zachary-smith">
 <img src="images/Thomas.png" width="200" alt="Thomas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.atozagat.com">
-<img src="images/atozagat.jpg" height="100" alt="A to Zagat">
 
 
 
