@@ -38,6 +38,8 @@
 ---
 
 ### Published Work
+<a href="https://www.cleveland.com/staff/zsmith/posts.html">
+<img src="images/cleveland.png" width="200" alt="Cleveland.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.everydayhealth.com/authors/zachary-smith/">
 <img src="images/everyday-health-01.png" width="200" alt="Everyday Health">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.everydayhealth.com/authors/zachary-smith/">
