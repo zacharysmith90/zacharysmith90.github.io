@@ -38,6 +38,8 @@
 ---
 
 ### Published Work
+<a href="https://www.vice.com/en/contributor/zachary-smith">
+<img src="images/vice.png" width="200" alt="VICE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cleveland.com/staff/zsmith/posts.html">
 <img src="images/cleveland-2.png" width="200" alt="Cleveland.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.everydayhealth.com/authors/zachary-smith/">
