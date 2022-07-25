@@ -4,6 +4,26 @@
 
 ### Data Journalism
 
+[Health Effects in Cleveland Redlined Neighborhoods](https://www.cleveland.com/news/2022/07/uh-researchers-find-near-century-old-redlining-discriminatory-housing-policies-leave-lasting-legacy-on-modern-day-heart-health.html)
+<img src="images/cuy-redline-health.png?raw=true"/>
+
+---
+
+[The Road to Infertility Calculator](https://zacharysmith90.github.io/vice-bmi/)
+<img src="images/vice-calc.png?raw=true"/>
+
+---
+
+[2022 Ohio Governon Primary Results](https://www.cleveland.com/data/2022/05/detailed-look-at-ohio-us-governor-wins-for-mike-dewine-nan-whaley-by-county-statewide-and-by-precinct-in-cuyahoga-county.html)
+<img src="images/2022-gov-primary.png?raw=true"/>
+
+---
+
+[Vaccines and Ohio Politics](https://www.cleveland.com/data/2022/04/see-where-ohios-death-rates-increased-most-during-covid-19-urban-areas-like-cleveland-not-hit-as-hard.html)
+<img src="images/vac-trump.png?raw=true"/>
+
+---
+
 [Top 300 Food Banks By Revenue](https://foodbanknews.org/top-300-food-banks-by-revenue/)
 <img src="images/fbn_barChart.png?raw=true"/>
 
@@ -54,8 +74,6 @@
 <img src="images/nycitynewsservice.png" width="200" alt="NYCity News Service">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.thomasnet.com/author/zachary-smith">
 <img src="images/Thomas.png" width="200" alt="Thomas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 
 ---
 
