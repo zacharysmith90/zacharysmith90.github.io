@@ -4,6 +4,11 @@
 
 ### Data Journalism
 
+[Answer Rate of SNAP Calls to Cleveland Call Center ](https://www.cleveland.com/news/2023/03/anything-but-a-snap-most-calls-to-cuyahoga-county-for-help-with-assistance-programs-never-get-answered.html)
+<img src="images/cle-snap.png?raw=true"/>
+
+---
+
 [Health Effects in Cleveland Redlined Neighborhoods](https://www.cleveland.com/news/2022/07/uh-researchers-find-near-century-old-redlining-discriminatory-housing-policies-leave-lasting-legacy-on-modern-day-heart-health.html)
 <img src="images/cuy-redline-health.png?raw=true"/>
 
@@ -52,12 +57,10 @@
 <img src="images/snapmap.png?raw=true"/>
 
 ---
-[Tracking Small Donations to NYC 2021 Mayoral Candidates](https://zacharysmith90.github.io/mayorsmalldonor/)
-<img src="images/smalldonor.png?raw=true"/>
-
----
 
 ### Published Work
+<a href="https://climate-change.ieee.org/">
+<img src="images/ieee-logo2x.png" width="200" alt="IEEE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.vice.com/en/contributor/zachary-smith">
 <img src="images/vice.png" width="200" alt="VICE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.cleveland.com/staff/zsmith/posts.html">
