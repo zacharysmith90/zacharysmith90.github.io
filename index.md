@@ -4,14 +4,12 @@
 
 ### Data Journalism
 
-[How Cleveland’s 17 wards voted on the People’s Budget]
-(https://www.cleveland.com/news/2023/11/how-clevelands-17-wards-voted-on-the-peoples-budget.html)
+[How Cleveland’s 17 wards voted on the People’s Budget](https://www.cleveland.com/news/2023/11/how-clevelands-17-wards-voted-on-the-peoples-budget.html)
 <img src="images/cle-peoples-budget-vote.png?raw=true"/>
 
 ---
 
-[Ohio ranks dead last nationally for subsidizing child care up to age 5]
-(https://www.cleveland.com/data/2023/07/ohio-ranks-at-bottom-last-nationally-for-subsidizing-child-care-for-preschoolers-rethinking-child-care.html)
+[Ohio ranks dead last nationally for subsidizing child care up to age 5](https://www.cleveland.com/data/2023/07/ohio-ranks-at-bottom-last-nationally-for-subsidizing-child-care-for-preschoolers-rethinking-child-care.html)
 <img src="images/sub-childcare.png?raw=true"/>
 
 ---
