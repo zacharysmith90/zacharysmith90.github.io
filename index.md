@@ -4,6 +4,11 @@
 
 ### Data Journalism
 
+[Warmer than ever - Cleveland closes out a winter that was far from normal](https://www.cleveland.com/news/2024/03/warmer-than-ever-cleveland-closes-out-a-winter-that-was-far-from-normal.html)
+<img src="images/cle-warmest-winter.png?raw=true"/>
+
+---
+
 [How Cleveland’s 17 wards voted on the People’s Budget](https://www.cleveland.com/news/2023/11/how-clevelands-17-wards-voted-on-the-peoples-budget.html)
 <img src="images/cle-peoples-budget-vote.png?raw=true"/>
 
