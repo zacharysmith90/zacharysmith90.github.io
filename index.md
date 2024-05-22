@@ -74,6 +74,8 @@
 ---
 
 ### Published Work
+<a href="https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/">
+<img src="images/stat.png" width="200" alt="STAT News">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://climate-change.ieee.org/">
 <img src="images/ieee-logo2x.png" width="200" alt="IEEE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.vice.com/en/contributor/zachary-smith">
