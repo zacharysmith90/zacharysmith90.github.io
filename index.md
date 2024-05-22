@@ -88,7 +88,7 @@
 <img src="images/cny.png" width="200" alt="Crain's New York">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://zacharysmith90.github.io/fbn">
 <img src="images/fbn.jpeg" width="200" alt="Food Bank News">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://bklyner.com/author/zachary-smith/">
+<a href="">
 <img src="images/bklyner.png" width="200" alt="Bklyner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://nextnewyork.nycitynewsservice.com/cooped-up-new-yorkers-find-escape-in-outdoor-art/">
 <img src="images/nycitynewsservice.png" width="200" alt="NYCity News Service">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
