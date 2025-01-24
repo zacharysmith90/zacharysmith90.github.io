@@ -9,6 +9,11 @@
 
 ---
 
+[2023 OAPME first place award for best informational graphic - Ohio ranks near top of states for school voucher spending](https://cleveland.com/education/2023/11/ohio-ranks-near-top-of-states-for-school-voucher-spending.html)
+<img src="images/school-voucher.png?raw=true"/>
+
+---
+
 [How Cleveland’s 17 wards voted on the People’s Budget](https://www.cleveland.com/news/2023/11/how-clevelands-17-wards-voted-on-the-peoples-budget.html)
 <img src="images/cle-peoples-budget-vote.png?raw=true"/>
 
@@ -66,10 +71,6 @@
 ---
 [United States Fruit Yield Streamgraph](https://raw.githubusercontent.com/zacharysmith90/zacharysmith90.github.io/master/images/cropsyield_finalDesktop_v2.png)
 <img src="images/cropsyield_finalDesktop_v2.png?raw=true"/>
-
----
-[New York State Pandemic SNAP Cases](https://zacharysmith90.github.io/newyork-snap/)
-<img src="images/snapmap.png?raw=true"/>
 
 ---
 
