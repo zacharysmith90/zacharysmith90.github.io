@@ -75,6 +75,10 @@
 ---
 
 ### Published Work
+<a href="https://www.crainscleveland.com/author/zachary-smith">
+<img src="images/crainscleveland.png" width="200" alt="Crain's Cleveland">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.ire.org/ire-journal/probing-the-ethics-of-controversial-brain-research/">
+<img src="images/ire.png" width="200" alt="IRE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/">
 <img src="images/stat.png" width="200" alt="STAT News">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://climate-change.ieee.org/">
