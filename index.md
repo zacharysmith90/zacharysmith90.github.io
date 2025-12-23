@@ -4,6 +4,13 @@
 
 ### Data Journalism
 
+---
+
+[As Cleveland struggles to reform permitting process, developers say they still bear the brunt](https://www.crainscleveland.com/real-estate/clevelands-permit-process-burden-say-developers)
+<img src="images/cleveland-permits.png?raw=true"/>
+
+---
+
 [Warmer than ever - Cleveland closes out a winter that was far from normal](https://www.cleveland.com/news/2024/03/warmer-than-ever-cleveland-closes-out-a-winter-that-was-far-from-normal.html)
 <img src="images/cle-warmest-winter.png?raw=true"/>
 
